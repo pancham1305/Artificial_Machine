@@ -1,1 +1,9 @@
-# bug-free-garbanzo
+## index.html
+    - Front Page => two options
+    1) Register a new product.
+    2) See registered Products.
+
+## form.php
+    -To Register a new Product.
+## stack.html
+    - See registered Products.
