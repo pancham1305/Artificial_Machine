@@ -5,6 +5,9 @@
 
 ## form.php
     -To Register a new Product.
+     Ideal Registeration => Owner Adds a product.
+                         => Product is Added
+                         => Page is reloaded
 ## stack.html
     - See registered Products.
 ## *.css
