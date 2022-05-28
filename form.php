@@ -4,7 +4,7 @@ if (isset($_POST["submit"])) {
   echo "<pre>";
   print_r($_POST);
   echo "<pre>";
-  echo "<h1>The user is registered</h1><!--";
+  echo "<h1>The Product is Added</h1><!--";
 }
 ?>
 <!DOCTYPE html>
