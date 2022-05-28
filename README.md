@@ -14,4 +14,5 @@
         - used for styling web pages created.
 # NOTE:
         At the moment:
-        Searchbar shows : "No items yet registered!"
+        - Searchbar shows : "No items yet registered!"
+        - github doesn't allow php files to be loaded.
