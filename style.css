@@ -5,7 +5,7 @@ body{
 }
 #center{
     display: flex;
-    justify-content: center;
+    justify-content:center;
 }
 form{
     text-align: center;
@@ -39,15 +39,21 @@ button:hover{
 #sea:focus{
     width: 25rem;
 }
-/* #button1{
-    position: relative;
-    right: 10px;
-}
-#button2{
-    position: relative;
-    left: 10px;
-} */
 #buttons{
     display: flex;
     justify-content:space-evenly;
+}
+#image{
+    position:absolute;
+    top:0;
+    left:0;
+}
+@media screen and (max-width:600px){
+    #image{
+        position:unset;
+    }
+    #i{
+        display:flex;
+        justify-content: center;
+    }
 }
