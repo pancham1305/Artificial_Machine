@@ -1,6 +1,7 @@
-# Note:
-        - Link to the website is:-
-        - (https://autoshift.000webhostapp.com/)
+Link to the website given below:
+
+[Autoshift.io](https://autoshift.000webhostapp.com/)
+
 ## index.html
     - Front Page => two options
     1) Register a new product.
